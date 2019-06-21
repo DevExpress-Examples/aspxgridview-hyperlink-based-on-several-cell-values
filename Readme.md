@@ -1,4 +1,7 @@
 # How to use a hyperlink whose argument depends on several cell values in the ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e993)**
+<!-- run online end -->
 
 
 <p>It is an often situation when a developer should include sever field values in a hyperlink shown in a GridView column cells. The best solution to this problem is to use templates. The attached example shows how this can be done and suggests two similar approaches:</p>
