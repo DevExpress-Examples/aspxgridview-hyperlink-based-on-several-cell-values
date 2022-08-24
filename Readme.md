@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # How to use a hyperlink whose argument depends on several cell values in the ASPxGridView
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e993/)**
+**[[Run Online]](https://codecentral.devexpress.com/128543418/)**
 <!-- run online end -->
 
 
