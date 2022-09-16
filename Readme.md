@@ -3,15 +3,27 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E993)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# How to use a hyperlink whose argument depends on several cell values in the ASPxGridView
+# Grid View for ASP.NET Web Forms - How to display a hyperlink based on several cell values
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/128543418/)**
 <!-- run online end -->
 
+This example demonstrates how to configure a grid column's data item template to display a hyperlink based on several cell values.
 
-<p>It is an often situation when a developer should include sever field values in a hyperlink shown in a GridView column cells. The best solution to this problem is to use templates. The attached example shows how this can be done and suggests two similar approaches:<br>1) using ASPxHyperLink: the NavigateUrl property of ASPxHyperLink is defined by the KeyValue of the processed row</p>
-<p>2) using the <a> element: the href parameter of the <a> element is defined in the server side GetRowValue method.<br><br><strong>Update:</strong><br>If you want to use GridViewDataHyperLinkColumn and preserve its functionality, use unbound columns instead of the DataItem template. Please refer to the <a href="https://www.devexpress.com/Support/Center/p/T517626">ASPxGridView - How to create GridViewDataHyperLinkColumn whose URL depends on several column values</a> example for more information. </p>
+> For an example on how to implement a similar functionality based on an unbound GridViewDataHyperLinkColumn, refer to the following example: [Grid View for ASP.NET Web Forms - How to create a HyperLink column whose URL depends on several column values](https://www.devexpress.com/Support/Center/p/T517626)
 
-<br/>
+## Implementation Details
 
+The example application illustrates a common use case scenario when values from several data fields are used to produce the URL and/or display text of a hyperlink displayed within a grid cell.
 
+Two equivalent techniques are demonstrated:
+
+1. Based on the ASPxHyperLink control. The control's NavigateUrl property value includes the processed row's KeyValue property value.
+
+2. Based on the `<a>` HTML element. The server `GetRowValue` method calculates the `href` parameter's value.
+
+## Files to Review
+
+## Documentation
+
+## More Examples
