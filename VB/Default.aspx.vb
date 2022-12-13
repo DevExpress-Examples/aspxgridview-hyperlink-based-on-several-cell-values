@@ -12,8 +12,6 @@ Imports DevExpress.Web
 Imports System.IO
 Imports System.Drawing
 Imports System.Drawing.Imaging
-Imports DevExpress.Web.ASPxGridView
-Imports DevExpress.Web.ASPxEditors
 
 Partial Public Class _Default
     Inherits System.Web.UI.Page
