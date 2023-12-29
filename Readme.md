@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to display a hyperlink based on several cell values
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128543418/)**
-<!-- run online end -->
 
 This example demonstrates how to configure a grid column's data item template to display a hyperlink based on several cell values.
 
