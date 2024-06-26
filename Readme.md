@@ -2,6 +2,7 @@
 ![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128543418/22.1.4%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E993)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+[![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to display a hyperlink based on several cell values
 
@@ -34,3 +35,10 @@ Two equivalent techniques are demonstrated:
 - [Grid View for ASP.NET Web Forms - How to create a HyperLink column whose URL depends on several column values](https://www.devexpress.com/Support/Center/p/T517626)
 - [Grid View for ASP.NET Web Forms - Create a DataItemTemplate for a column at Runtime](https://github.com/DevExpress-Examples/aspxgridview-dataitemtemplate-runtime)
 - [Grid View for ASP.NET Web Forms - Create a DataItemTemplate for a column at Runtime](https://github.com/DevExpress-Examples/aspxgridview-dataitemtemplate-hyperlink-popup)
+<!-- feedback -->
+## Does this example address your development requirements/objectives?
+
+[<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-hyperlink-based-on-several-cell-values&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-hyperlink-based-on-several-cell-values&~~~was_helpful=no)
+
+(you will be redirected to DevExpress.com to submit your response)
+<!-- feedback end -->
