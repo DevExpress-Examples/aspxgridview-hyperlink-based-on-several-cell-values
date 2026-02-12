@@ -36,7 +36,7 @@ Two equivalent techniques are demonstrated:
 - [Grid View for ASP.NET Web Forms - Create a DataItemTemplate for a column at Runtime](https://github.com/DevExpress-Examples/aspxgridview-dataitemtemplate-runtime)
 - [Grid View for ASP.NET Web Forms - Create a DataItemTemplate for a column at Runtime](https://github.com/DevExpress-Examples/aspxgridview-dataitemtemplate-hyperlink-popup)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-hyperlink-based-on-several-cell-values&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-hyperlink-based-on-several-cell-values&~~~was_helpful=no)
 
